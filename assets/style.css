@@ -317,6 +317,7 @@ footer p.lead{max-width:440px;margin:0 auto 28px;color:var(--body);}
 .side-icons a.ic-mail{background:var(--blue);}
 .side-icons a.ic-linkedin{background:#0a66c2;}
 .side-icons a.ic-github{background:#2a2b33;}
+.side-icons a.ic-spotify{background:#1db954;}
 .side-icons a.ic-resume{background:var(--teal);}
 .side-icons a.ic-site{background:#2b3245;}
 @media(max-width:760px){
