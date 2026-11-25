@@ -334,3 +334,4 @@ footer p.lead{max-width:440px;margin:0 auto 28px;color:var(--body);}
   .hero{padding:60px 0 48px;}
   .page-hero h1{font-size:30px;}
 }
+.cert a.verify{display:inline-block;margin-top:10px;font-size:13px;font-weight:600;color:var(--accent,#2563eb);text-decoration:none}.cert a.verify:hover{text-decoration:underline}
